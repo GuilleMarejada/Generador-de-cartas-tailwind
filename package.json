@@ -1,0 +1,11 @@
+{
+  "name": "html-hello",
+  "version": "1.0.0",
+  "description": "The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
